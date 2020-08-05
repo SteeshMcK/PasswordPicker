@@ -5,6 +5,5 @@ adjectives = ['attractive', 'agreeable', 'angry', 'big', 'flabby', 'kind', 'lazy
 
 nouns = ['people', 'history', 'way', 'art', 'world', 'youth', 'uncle', 'trainer', 'throat', 'tale', 'love', 'internet', 'television', 'science', 'library']
 
-
-
 print("Welcome to the Password Picker!")
+
