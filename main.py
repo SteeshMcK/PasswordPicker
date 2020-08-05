@@ -7,3 +7,6 @@ nouns = ['people', 'history', 'way', 'art', 'world', 'youth', 'uncle', 'trainer'
 
 print("Welcome to the Password Picker!")
 
+#Use choice() from the random module to make a random choice from the two arrays
+adjective = random.choice(adjectives)
+noun = random.choice(nouns)
