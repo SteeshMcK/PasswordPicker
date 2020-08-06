@@ -10,3 +10,6 @@ print("Welcome to the Password Picker!")
 #Use choice() from the random module to make a random choice from the two arrays
 adjective = random.choice(adjectives)
 noun = random.choice(nouns)
+
+#Use randrange() from random module to choose a random number within the range given
+number = random.randrange(0, 100)
