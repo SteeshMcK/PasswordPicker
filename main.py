@@ -13,3 +13,7 @@ noun = random.choice(nouns)
 
 #Use randrange() from random module to choose a random number within the range given
 number = random.randrange(0, 100)
+
+#string.punctuation is a constant variable
+#It holds a strong of punctuation characters
+special_char = random.choice(string.punctuation)
