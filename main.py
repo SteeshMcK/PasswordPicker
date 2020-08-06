@@ -3,7 +3,7 @@ import string
 
 adjectives = ['attractive', 'agreeable', 'angry', 'big', 'flabby', 'kind', 'lazy', 'microscopic', 'skinny', 'witty', 'scary', 'tall', 'jolly', 'zealous', 'gentle']
 
-nouns = ['people', 'history', 'way', 'art', 'world', 'youth', 'uncle', 'trainer', 'throat', 'tale', 'love', 'internet', 'television', 'science', 'library']
+nouns = ['People', 'History', 'Way', 'Art', 'World', 'Youth', 'Uncle', 'Trainer', 'Throat', 'Tale', 'Love', 'Internet', 'Television', 'Science', 'Library']
 
 print("Welcome to the Password Picker!")
 
@@ -17,3 +17,6 @@ number = random.randrange(0, 100)
 #string.punctuation is a constant variable
 #It holds a strong of punctuation characters
 special_char = random.choice(string.punctuation)
+
+password = adjective + noun + str(number) + special_char
+print("Your new password is: "  + password)
