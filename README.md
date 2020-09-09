@@ -29,7 +29,7 @@
   
   ![Repl.it screenshot](/images/ppImg6.png)
   
-#### Find the interactive program ar Repl.it [Repl.it](https://repl.it/@19Steesh69/PasswordPicker#main.py)
+#### Find the interactive program at [Repl.it](https://repl.it/@19Steesh69/PasswordPicker#main.py)
 
 
 
