@@ -5,7 +5,7 @@ adjectives = ['attractive', 'agreeable', 'angry', 'big', 'flabby', 'kind', 'lazy
 
 colors = ['Cotton', 'Sand', 'Banana', 'Cantaloupe', 'Garnet', 'Rouge', 'Violet', 'Cerulean', 'Pine', 'Hickory', 'Dove', 'Fog', 'Flint', 'Raven', 'Spider']
 
-nouns = ['People', 'History', 'Way', 'Art', 'World', 'Youth', 'Uncle', 'Trainer', 'Throat', 'Tale', 'Love', 'Internet', 'Television', 'Science', 'Library']
+nouns = ['People', 'History', 'Way', 'Art', 'World', 'Youth', 'Uncle', 'Trainer', 'Throat', 'Tale', 'Love', 'Internet', 'Television', 'Science', 'Library', 'Bookstand']
 
 print("Welcome to the Password Picker!")
 
