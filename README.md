@@ -17,14 +17,14 @@
 4. If the user chooses 'y':  
 ![Repl.it screenshot4](/images/ppImg4.png)
 
-  4a. Another quantity of passwords prints to the screen and the user is again given the option to generate more passowrds or quit.
-  ![Repl.it screenshot7](/images/ppImg7.png)
+4a. Another quantity of passwords prints to the screen and the user is again given the option to generate more passowrds or quit.
+![Repl.it screenshot7](/images/ppImg7.png)
   
 5. If the user chooses 'n':  
 ![Repl.it screenshot5](/images/ppImg5.png)
   
-  5a. The program quits.  
-  ![Repl.it screenshot](/images/ppImg6.png)
+5a. The program quits.  
+![Repl.it screenshot](/images/ppImg6.png)
   
 #### Find the interactive program at [Repl.it](https://repl.it/@19Steesh69/PasswordPicker#main.py)
 
