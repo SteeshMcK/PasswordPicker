@@ -1,8 +1,29 @@
-# PasswordPicker
+# Password Picker
 
-## PasswordPicker is a simple program written in Python. It asks a user how many passwords they would like, presents these passwords made of randomly chosen words, numbers, and special characters, then asks them if they would like more generated.
+#### Password Picker is a simple program written in Python. It asks a user how many passwords they would like, presents these passwords made of randomly chosen words, numbers, and special characters, then asks them if they would like more generated.
 
 ![Repl.it screenshot](/images/ppImg1.png)
+1. Password Picker greets the user and asks them how many passwords they would like generated.
+
+![Repl.it screenshot](/images/ppImg2.png)
+2. User types in how many passwords they would like generated.
+
+![Repl.it screenshot](/image/ppImg3.png)
+3. A quantity of passwords, chosen by the user, prints to the screen. The user is asked if they would like more passwords created or no.
+
+![Repl.it screenshot](/images/ppImg4.png)
+4. If the user chooses 'y':
+
+  ![Repl.it screenshot](/images/ppImg7.png)
+  4a. Another quantity of passwords prints to the screen and the user is again given the option to generate more passowrds or quit.
+  
+![Repl.it screenshot](/images/ppImg5.png)
+5. If the user chooses 'n':
+
+  ![Repl.it screenshot](/images/ppImg6.png)
+  5a. The program quits.
+  
+#### Find the interactive program ar Repl.it [Repl.it](https://repl.it/@19Steesh69/PasswordPicker#main.py)
 
 
 
