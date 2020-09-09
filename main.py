@@ -1,3 +1,22 @@
+"""
+This program:
+1. Asks the user how many passwords they 
+   would like generated for them.
+2. Chooses one word randomly, from 3 different 
+   arrays, as well as a number between 0 and 100
+   and a special character.
+3. Strings words and number together.
+3. Repeats to satisfy user input.
+4. Prints concatenated string to run field.
+5. Asks user if they would like to create more passwords.
+6. If the user types 'y', condition remains 'true' and 
+   password producing operation repeats.
+7. If user types 'n', condition changes to 'false',
+   and there is a break in the program, ending it.
+Coded by Stesha McKindle
+Last updated 9/09/20
+"""
+
 import random
 import string
 
