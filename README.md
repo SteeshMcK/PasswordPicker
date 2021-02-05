@@ -5,10 +5,12 @@
 
 ##### How to use:
 
+*When the repl.it page loads, click the big green arrow. Then it takes a few seconds for the program to load.
+
 1. Password Picker greets the user and asks them how many passwords they would like generated.
 ![Repl.it screenshot1](/images/ppImg1.png)
 
-2. User types in how many passwords they would like generated.
+2. User clicks the screen to engage the cursor, then types in how many passwords they would like generated.
 ![Repl.it screenshot2](/images/ppImg2.png)
 
 3. A quantity of passwords, chosen by the user, prints to the screen. The user is asked if they would like more passwords created or no.
